@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94121752844",
+    "firebase_url": "https://fyp-testing-6738e.firebaseio.com",
+    "project_id": "fyp-testing-6738e",
+    "storage_bucket": "fyp-testing-6738e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94121752844:android:2f159218286990d3f17129",
+        "android_client_info": {
+          "package_name": "com.matchcatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94121752844-gj83i7k22dvg3i0plm637f7toinuoi57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6uQyOvbkh6qGHv8GwWr6yG-InUcvoWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94121752844-gj83i7k22dvg3i0plm637f7toinuoi57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
